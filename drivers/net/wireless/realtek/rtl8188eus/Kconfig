@@ -1,0 +1,6 @@
+config RTL8188EU
+	tristate "Realtek RTL8188EUS and RTL8188ETV Wi-Fi driver with monitor mode & frame injection support"
+	depends on USB
+	---help---
+	  Help message of RTL8188EU
+
